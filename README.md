@@ -15,6 +15,57 @@ $ ./rocks
 C Rocks!
 ```
 
+## Cards
+
+```
+cd cards
+gcc cards.c -o cards
+./cards
+```
+
+Output
+
+```
+Enter card name: 
+K
+The card value is: 10
+```
+
+## Card Count
+
+```
+cd cards
+gcc cardcount.c -o cardcount
+./cardcount
+```
+
+Output
+
+```
+Enter card name: 
+K
+The card value is: 10
+Count has gone down
+```
+
+
+## Sort
+
+```
+cd sort
+gcc sort.c selection_sort.c -o sort -std=c99
+./sort
+```
+
+Output
+
+```
+15 33 48 65 57 79 52 
+Sort starting ...
+Sort has ended. 
+15 33 48 52 57 65 79
+```
+
 
 ## Cloud 9 Notes
 
@@ -45,3 +96,4 @@ To use C++ 14
 
 - [Writing a C++ App](https://community.c9.io/t/writing-a-c-app/4965)
 - [Head First C](http://shop.oreilly.com/product/0636920015482.do)
+- [Advanced Topics in C](http://www.apress.com/us/book/9781430264002)
