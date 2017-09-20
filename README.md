@@ -97,3 +97,4 @@ To use C++ 14
 - [Writing a C++ App](https://community.c9.io/t/writing-a-c-app/4965)
 - [Head First C](http://shop.oreilly.com/product/0636920015482.do)
 - [Advanced Topics in C](http://www.apress.com/us/book/9781430264002)
+- [Notes and Resources on Make](https://stormwild.github.io/make)
